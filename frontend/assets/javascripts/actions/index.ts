@@ -1,0 +1,15 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+
+export const SET_USERS = 'SET_USERS';
+
+export const SET_ERROR_HANDLER = 'SET_ERROR_HANDLER';
+export const HIDDEN_ALERT = 'HIDDEN_ALERT';
+
+export const SET_AUTH_TOKEN = 'SET_AUTH_TOKEN';
+export const DESTROY_AUTH_TOKEN = 'DESTROY_AUTH_TOKEN';
+
+export const SET_LAYOUT_STATE = 'SET_LAYOUT_STATE';
+
+export const DESTROY_NEXT_LOCATION = 'DESTROY_NEXT_LOCATION';
+
+export const SET_ISSUES = 'SET_ISSUES';
